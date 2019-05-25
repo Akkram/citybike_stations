@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/citybike_stations.iml" filepath="$PROJECT_DIR$/.idea/modules/citybike_stations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/citybike_stations-build.iml" filepath="$PROJECT_DIR$/.idea/modules/citybike_stations-build.iml" />
+    </modules>
+  </component>
+</project>
