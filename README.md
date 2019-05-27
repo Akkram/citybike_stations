@@ -1,6 +1,6 @@
 **Brisbane-City-Bike**
 
-Performing a clustering based on the location of bike stations in Brisbane (Python3)
+Performing a clustering based on the location of bike stations in Brisbane (Scala-Spark)
 
 First five lines of Brisbane_CityBike.json file:
 
