@@ -2,7 +2,7 @@
 
 Performing a clustering based on the location of bike stations in Brisbane (Scala-Spark)
 
-First five lines of Brisbane_CityBike.json file:
+First ten lines of Brisbane_CityBike.json file:
 
 +--------------------------------------------+-----+----------+----------+-------------------------------------------------+--------+
 |address                                     |id   |latitude  |longitude |name                                             |position|
